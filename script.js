@@ -30,7 +30,7 @@ const districtMap = {
         "Ariyalur", "Chengalpattu", "Chennai", "Coimbatore", "Cuddalore", 
         "Dharmapuri", "Dindigul", "Erode", "Kallakurichi", "Kancheepuram", 
         "Karur", "Krishnagiri", "Madurai", "Mayiladuthurai", "Nagapattinam", 
-        "Namakkal", "Nilgiris", "Perambalur", "Pudukkottai", "Ramanathapuram", 
+        "Namakkal", "The Nilgiris", "Perambalur", "Pudukkottai", "Ramanathapuram", 
         "Ranipet", "Salem", "Sivaganga", "Tenkasi", "Thanjavur", "Theni", 
         "Thiruvallur", "Thiruvarur", "Thoothukudi", "Tiruchirappalli", 
         "Tirunelveli", "Tirupathur", "Tiruppur", "Tiruvannamalai", "Vellore", 
